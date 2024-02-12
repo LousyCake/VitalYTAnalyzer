@@ -9,14 +9,14 @@ __Important Note:__ The YouTube API provides real-time data, and the numbers ret
 ## Prerequisites
 1. __Google Cloud Project:__
 
-+ Create a Google Cloud Project:  [Google Cloud Console](https://console.cloud.google.com/).
-+ Enable the YouTube Data API v3 for your project.
+	+ Create a Google Cloud Project:  [Google Cloud Console](https://console.cloud.google.com/).
+	+ Enable the YouTube Data API v3 for your project.
 2. __API Key:__
 
-+ Generate an API key in the Google Cloud Console.
+	+ Generate an API key in the Google Cloud Console.
 3. __Go Language:__
 
-+ Install Go: [Go Installation Guide](https://go.dev/doc/install).
+	+ Install Go: [Go Installation Guide](https://go.dev/doc/install).
 
 ## Installation
 1. __Clone the repository:__
@@ -26,8 +26,9 @@ cd VitalYTAnalyzer
 ```
 2. __Set up your API key:__
 
-+ Open __main.go.__
-+ Replace __"YOUR_API_KEY"__ with your actual API key.
+	+ Open __main.go.__
+	+ Replace __"YOUR_API_KEY"__ with your actual API key.
+
 3. __Run the application:__
 
 ```
